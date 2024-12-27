@@ -12,3 +12,4 @@ This is a test repository for trying out our Git GUI Manager.
 🚧 Under development
 
 ## Changes
+ **Buttons
