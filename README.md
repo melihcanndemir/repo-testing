@@ -10,3 +10,5 @@ This is a test repository for trying out our Git GUI Manager.
 
 ## Status
 🚧 Under development
+
+## Changes
